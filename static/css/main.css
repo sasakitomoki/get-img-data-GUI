@@ -1,0 +1,23 @@
+.input-container{
+    padding: 1% 10%;
+    display: flex;
+    justify-content: space-between; /* 要素を等間隔に配置 */
+    width: 100%; /* コンテナの幅をいっぱいに広げる */
+}
+
+.slide-show{
+    padding: 0% 5%;;
+    display: flex;
+    justify-content: space-between; /* 要素を等間隔に配置 */
+    width: 100%; /* コンテナの幅をいっぱいに広げる */
+}
+/* .img{
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+img{
+    width: 90%;
+}
